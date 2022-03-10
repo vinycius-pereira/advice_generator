@@ -1,0 +1,12 @@
+body,
+html {
+  margin: 0;
+  font-family: 'Manrope', sans-serif;
+  background-color: hsl(218, 23%, 16%);
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
